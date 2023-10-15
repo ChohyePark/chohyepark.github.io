@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.5039c693.css",
-    "main.js": "/static/js/main.727e4093.js",
+    "main.js": "/static/js/main.755d4c0c.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/macaroon.gif": "/static/media/macaroon.59a9b82006ac6569fc8c.gif",
+    "static/media/austinlee.gif": "/static/media/austinlee.22cac5bb7eb2ffa35a94.gif",
     "static/media/remixicon.svg?t=1690730386070": "/static/media/remixicon.db77551b8efc76571c4f.svg",
     "static/media/tottle.gif": "/static/media/tottle.41b1cfbcb34abb2e2261.gif",
-    "static/media/portfolio.gif": "/static/media/portfolio.873aa4d5647666b6c478.gif",
+    "static/media/portfolio.gif": "/static/media/portfolio.7745839671395eb7709c.gif",
     "static/media/magazine.gif": "/static/media/magazine.d4f3da4a0d7fe1e9b5c1.gif",
     "static/media/remixicon.eot?t=1690730386070": "/static/media/remixicon.53ec05edb4b6864b45b1.eot",
     "static/media/remixicon.ttf?t=1690730386070": "/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
@@ -15,11 +16,11 @@
     "static/media/remixicon.woff2?t=1690730386070": "/static/media/remixicon.821a773710130bcf4674.woff2",
     "index.html": "/index.html",
     "main.5039c693.css.map": "/static/css/main.5039c693.css.map",
-    "main.727e4093.js.map": "/static/js/main.727e4093.js.map",
+    "main.755d4c0c.js.map": "/static/js/main.755d4c0c.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5039c693.css",
-    "static/js/main.727e4093.js"
+    "static/js/main.755d4c0c.js"
   ]
 }
